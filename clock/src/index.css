@@ -1,0 +1,29 @@
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: digital;
+  src: url(/src/font/digital-7.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: digital;
+  background-color: gray;
+}
+
+.clockWrapper{
+  padding: 2em;
+  text-align: center;
+  background-color: #ffffff;
+  border: darkgrey 1px solid;
+  width: 20%;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 3%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
