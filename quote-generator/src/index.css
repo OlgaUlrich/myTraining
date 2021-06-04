@@ -1,0 +1,70 @@
+html, body {
+  margin: 0;
+  width: 100%;
+
+
+  
+
+}
+
+body{
+  background-color: dimgrey;
+}
+
+.row{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.container{
+  width: 100%;
+  margin: 0;
+  height: 600px;
+  
+
+}
+
+
+
+.ListingWrapper{
+  background-color: #ffffff;
+  /* margin: auto; */
+  margin-top: 10%;
+  border-radius: 1.8%;
+  padding: 3em;
+  /* margin-bottom: 15%; */
+
+}
+
+
+#quote{
+  font-size: 1.75em;
+  text-align:justify;
+  padding: 0px 20px;
+}
+
+#autor{
+  font-size: 1em;
+
+}
+.autor-wrapper{
+text-align: right;
+}
+
+.socials{
+  margin-left: 1em;
+  height: 3em;
+  width: 3em;
+}
+
+.generator{
+  font-size: 0.85em;
+  height: 3.5em;
+  float: right;
+  
+}
+
+
+
+
