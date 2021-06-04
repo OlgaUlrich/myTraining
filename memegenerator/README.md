@@ -1,3 +1,7 @@
+Working out app "Meme generator", I've learned:
+# how to work with API and how to fetch data
+# how to handler event "onChange" and "onSubmit"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
