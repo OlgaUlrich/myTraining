@@ -1,6 +1,6 @@
 Working out app "Clock", I've learned:
--how to set and change state of class
--how to execute functions with componentDidMount
+#how to set and change state of class
+#how to execute functions with componentDidMount
 
 ********************************************************************************************
 
