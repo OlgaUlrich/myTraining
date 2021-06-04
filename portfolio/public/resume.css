@@ -1,0 +1,191 @@
+@font-face {
+    font-family: digital-7; src: url("/font/digital-7.ttf");
+}
+
+@media only screen and ( max-width: 651px ){
+    .toTheTop{ display:none !important}
+    .cvButton{margin-bottom: 10% !important; margin-top: 10% !important;}
+    
+    }
+
+h2{text-align: left; 
+    font-size: 3em;
+    color: hotpink;
+} 
+
+body{margin: 0}
+
+.tel{color:hotpink;
+}
+
+.tel:hover{
+    color: rgb(202, 17, 110);
+}
+
+h3{
+    color:hotpink;
+}
+
+p a{
+    color:hotpink;
+}
+
+p a:hover{
+    color: hotpink;
+}
+
+.row{border:0px;
+    margin-right:-10;
+    margin-left:0;
+    max-width:100%; 
+}
+    
+.container-fluid{
+    margin-left: -15px;
+    padding: 0px;
+}
+
+.toTheTop{
+    position: fixed; 
+    top:50%;  
+    z-index:99;
+    right: 15%; 
+    width: 40px;
+    height: 40px; 
+    border-radius: 50%; 
+    background-color: hotpink; 
+    color: #ffffff; 
+    padding-left: 12px;
+    font-size: 25px;
+    opacity: 0.5;
+}
+
+.toTheTop:hover{
+    opacity: 1;
+    color: #ffffff;
+}
+
+#aboutMe{margin-top: 4em;}
+
+
+.fa-angle-double-down{
+    font-size: 10em; 
+    color: hotpink;
+}
+
+.navbar-brand{
+    font-family: digital-7;
+    font-size: 0.4em !important;
+}
+
+.wrapper{
+    padding-top: 2.5em;
+}
+
+.wrapper img{
+    width: 170px;
+    height: 170px; 
+    vertical-align:middle;
+   }
+
+.cvButton{
+    margin-top: 80%;
+    width: 200px;
+    height: 100px;
+}
+
+.cvButton:hover{
+    background-color: hotpink;
+    border-color: rgb(252, 49, 151);
+}
+
+.cvButton i{
+    padding-right: 1em;
+    font-size: 2em;
+}
+
+
+.socials button {
+    text-align: left;
+   
+    padding-left: 0;
+
+}
+
+.socials button i{
+    color: #ffffff;
+    font-size: 1.8em;
+
+}
+
+.socials button i:hover{
+    color:hotpink;
+    border: none;
+
+}
+
+.info{
+    padding: 4em;
+}
+
+
+.contact-card{
+    background-color:#6c757e;
+    color: #ffffff;
+    padding-top: 3em;
+}
+
+.skillsCard{
+    background: repeating-linear-gradient(
+  45deg,
+  hotpink,
+  hotpink 10px,
+  #6c757e 10px,
+  #6c757e 20px
+);
+}
+
+thead th{
+    background-color: hotpink;
+    color: #ffffff;
+}
+
+.name{
+    font-size: 2em !important;
+    font-weight: bold;
+}
+
+.contact-card .wrapper{
+ padding-left: 0;
+}
+
+.contact-card ul {
+    padding-top: 1.2em;
+    list-style-type: none;
+    padding-left: 0;  
+}
+
+.contact-card ul li {
+font-size: 1em;
+}
+
+.rating span{
+    width: 10px;
+    height: 5px;
+    background-color: deeppink;
+}
+
+#myProjects{
+    padding-bottom: 4em;
+    padding-top:2em;
+
+}
+
+
+.projSection{
+    border-top: 6px solid hotpink; 
+    border-bottom: 6px solid hotpink;
+    background-color: rgb(255, 255, 255); 
+    padding-top:1em !important; 
+    padding-bottom:1em !important;
+}
