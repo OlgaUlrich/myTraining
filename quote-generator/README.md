@@ -1,3 +1,11 @@
+### Working out app "Quote generator", I've learned:
+### - state, and how to store data inside state
+### - how to change state with setState
+### - how to handler event "onClick"
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
