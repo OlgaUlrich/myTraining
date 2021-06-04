@@ -1,3 +1,13 @@
+Working out app "Clock", I've learned:
+-how to set and change state of class
+-how to execute functions with componentDidMount
+
+********************************************************************************************
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
