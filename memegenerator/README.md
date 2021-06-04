@@ -1,6 +1,6 @@
 ### Working out app "Meme generator", I've learned:
-### how to work with API and how to fetch data
-### how to handler event "onChange" and "onSubmit"
+### - how to work with API and how to fetch data
+### - how to handler event "onChange" and "onSubmit"
 
 # Getting Started with Create React App
 
